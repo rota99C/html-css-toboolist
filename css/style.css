@@ -1,3 +1,126 @@
-p {
-    color: red;
+#site-header {
+    height: 70px;
+    line-height: 70px;
+    background-color: white;
+    margin: 0rem;
+}
+
+.logo {
+    vertical-align: middle;
+}
+
+h1 {
+    margin: 0;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+body {
+    background-color:rgb(238, 238, 238);
+}
+
+main {
+    margin: 40px auto;
+    width: 70%;
+}
+
+.add-task{
+    background-color: #47adf1;
+    border-radius: 5px;
+    color: white;
+    padding: 5px;
+    margin-left: 30px;
+    margin-top: 5px;
+    margin-right: 3px;
+}
+
+#main-top{
+    padding-top: 20px;
+    padding-bottom: 15px;
+    background-color: white;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
+.add-selection{
+    background-color: white;
+    border-radius: 5px;
+    color: rgb(216, 216, 216);
+    padding: 5px;
+    outline-color: grey;
+}
+
+#main-content {
+    background-color: white;
+    margin-top: 2px;
+}
+
+h3 {
+    margin-bottom: 0;
+    margin-top: 0;
+}
+
+.list-element {
+    margin-top: 0;
+    display: inline-block;
+}
+
+.new-task {
+    padding: 25px;
+}
+
+.editorial {
+    background-color: #47adf1;
+    border-radius: 10px;
+    padding: 5px;
+    font-size: small;
+    color: white;
+}
+
+.today {
+    padding: 0 25px 25px 25px;
+}
+
+.upcoming {
+    padding: 0 25px 25px 25px;
+}
+
+.q1-goals {
+    background-color: #9c72e4;
+    border-radius: 10px;
+    padding: 5px;
+    font-size: small;
+    color: white;
+}
+
+.recruiting {
+    background-color: #64c0a9;
+    border-radius: 10px;
+    padding: 5px;
+    font-size: small;
+    color: white;
+}
+
+.mobile {
+    background-color: #f29e33;
+    border-radius: 10px;
+    padding: 5px;
+    font-size: small;
+    color: white;
+}
+
+.website {
+    background-color: #d863a1;
+    border-radius: 10px;
+    padding: 5px;
+    font-size: small;
+    color: white;
+}
+
+.sales {
+    background-color: #b0c926;
+    border-radius: 10px;
+    padding: 5px;
+    font-size: small;
+    color: white;
 }
