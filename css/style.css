@@ -126,3 +126,15 @@ h3 {
     font-size: small;
     color: white;
 }
+
+.check {
+    color: green;
+    border: 1px solid green;
+    border-radius: 50%
+}
+
+.cross {
+    color:red;
+    border: 1px solid red;
+    border-radius: 50%
+}
